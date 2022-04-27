@@ -1,8 +1,9 @@
-- 👋 Hi, I’m Ezgi
-- 🌱 I’m currently learning HTML, CSS, JavaScript, React, Node JS
-- 📫 How to reach me :  ezgisyr@outlook.com  - https://www.instagram.com/ezgoaway/    
+Hi 👋 My name is Ezgi
+=====================
 
-<!---
-ezgisayir/ezgisayir is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Jr. Frontend Developer
+----------------------
+
+* 🌍  I'm based in İstanbul
+* ✉️  You can contact me at [ezgisyr@outlook.com](mailto:ezgisyr@outlook.com)
+* 🧠  I'm learning I’m currently learning HTML, CSS, JavaScript, React, Node JS
